@@ -7,15 +7,15 @@ I'm a Frontend developer.
 Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in crafting beautiful minimal products and exploring new worlds.
 
 
-🔭 I’m currently working on different e-commerce projects
+🔭 I’m currently working on different e-commerce projects.
 
-🌱 I’m currently learning React, Expres and Typescript
+🌱 I’m currently learning React, Expres and Typescript.
 
-👯 I’m looking to collaborate on React projects
+👯 I’m looking to collaborate on React projects.
 
-🤔 I’m looking for help with developer roadmap
+🤔 I’m looking for help with developer roadmap.
 
-💬 Ask me about web
+💬 Ask me about web.
 
 😄 Pronouns: He / Him
 
