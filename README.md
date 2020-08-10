@@ -26,3 +26,5 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:jdmanuel242@gmail.com) 
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=johndavemanuel&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndavemanuel)](https://github.com/anuraghazra/github-readme-stats)
