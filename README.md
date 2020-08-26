@@ -9,7 +9,7 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 🔭 I’m currently working on different e-commerce projects.
 
-🌱 I’m currently learning React, Expres and Typescript.
+🌱 I’m currently learning React, Express and Typescript.
 
 👯 I’m looking to collaborate on React projects.
 
