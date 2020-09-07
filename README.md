@@ -28,3 +28,5 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=johndavemanuel&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndavemanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=johndavemanuel)](https://github.com/ryo-ma/github-profile-trophy)
