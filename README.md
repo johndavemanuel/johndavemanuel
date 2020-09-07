@@ -23,11 +23,11 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:jdmanuel242@gmail.com) 
 
-## :zap: Github Stats
-![My's github stats](https://github-readme-stats.vercel.app/api?username=johndavemanuel&show_icons=true)
-
 ## :computer: Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndavemanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## :zap: Github Stats
+![My's github stats](https://github-readme-stats.vercel.app/api?username=johndavemanuel&show_icons=true)
 
 ## :trophy: Github Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=johndavemanuel)](https://github.com/ryo-ma/github-profile-trophy)
