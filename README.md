@@ -1,6 +1,6 @@
 # Hi there 👋 I'm John Dave Manuel.
 
-### I'm a Frontend web developer. 
+### I'm a front-end web developer. 
 
 Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in crafting beautiful minimal products and exploring new worlds.
 
