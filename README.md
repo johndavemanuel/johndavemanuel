@@ -24,7 +24,7 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:jdmanuel242@gmail.com) 
 
 ## :computer: Languages
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Gulp](https://img.icons8.com/win10/E74C3C/gulp.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Cordova](https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg) ![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Gulp](https://img.icons8.com/win10/E74C3C/gulp.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndavemanuel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
