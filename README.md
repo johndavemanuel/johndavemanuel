@@ -1,4 +1,4 @@
-# Hi there 👋 I'm John Dave Manuel.
+# I'm John Dave Manuel 👋
 
 ### I'm a front-end web developer.
 
