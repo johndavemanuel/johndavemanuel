@@ -21,7 +21,8 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 📫 How to reach me:
 
-[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:jdmanuel242@gmail.com) 
+[![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:jdmanuel242@gmail.com)
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/johndavemanuel)
 
 ## :computer: Technologies
 <p align="center">
