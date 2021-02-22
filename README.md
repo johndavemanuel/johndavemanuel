@@ -23,6 +23,8 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=Gmail&style=social)](mailto:jdmanuel242@gmail.com)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/johndavemanuel)
+ 
+ ![](https://komarev.com/ghpvc/?username=johndavemanuel)
 
 ## :computer: Technologies
 <p align="center">
@@ -38,7 +40,5 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 ## :trophy: Github Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=johndavemanuel)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 <!--START_SECTION:activity--> 
-
-![](https://komarev.com/ghpvc/?username=johndavemanuel)
