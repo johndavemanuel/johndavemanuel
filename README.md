@@ -38,3 +38,6 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 [![trophy](https://github-profile-trophy.vercel.app/?username=johndavemanuel)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=johndavemanuel)
+
+
+<!--START_SECTION:activity--> 
