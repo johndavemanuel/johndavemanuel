@@ -47,3 +47,6 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 <!--START_SECTION:activity--> 
 1. 🗣 Commented on [#20](https://github.com/johndavemanuel/heyU-landingpage/issues/20) in [johndavemanuel/heyU-landingpage](https://github.com/johndavemanuel/heyU-landingpage)
 <!--END_SECTION:activity-->
+
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/226bsssntvy2xspl46emlanra)
