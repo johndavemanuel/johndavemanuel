@@ -40,6 +40,9 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 ## :trophy: Github Awards
 [![trophy](https://github-profile-trophy.vercel.app/?username=johndavemanuel)](https://github.com/ryo-ma/github-profile-trophy)
 
+## :trophy: Contributions
+[![Dave's github activity graph](https://activity-graph.herokuapp.com/graph?username=johndavemanuel&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity--> 
 1. 🗣 Commented on [#20](https://github.com/johndavemanuel/heyU-landingpage/issues/20) in [johndavemanuel/heyU-landingpage](https://github.com/johndavemanuel/heyU-landingpage)
