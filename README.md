@@ -38,11 +38,9 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 ## :trophy: Contributions
 [![Dave's github activity graph](https://activity-graph.herokuapp.com/graph?username=johndavemanuel&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/johndavemanuel/heyU-landingpage/issues/20) in [johndavemanuel/heyU-landingpage](https://github.com/johndavemanuel/heyU-landingpage)
 <!--END_SECTION:activity-->
-
-## :musical_note: Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=226bsssntvy2xspl46emlanra&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
