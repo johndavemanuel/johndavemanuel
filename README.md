@@ -36,5 +36,5 @@ Building simple and beautiful things for complex interfaces is what I enjoy most
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#122](https://github.com/newerton/bombcrypto-bot/issues/122) in [newerton/bombcrypto-bot](https://github.com/newerton/bombcrypto-bot)
+1. ❗️ Opened issue [#141](https://github.com/newerton/bombcrypto-bot/issues/141) in [newerton/bombcrypto-bot](https://github.com/newerton/bombcrypto-bot)
 <!--END_SECTION:activity-->
