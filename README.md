@@ -1,11 +1,9 @@
 # I'm John Dave Manuel 👋
 
-### I'm a front-end web developer.
-
-Building simple and beautiful things for complex interfaces is what I enjoy most about my work. I am also interested in crafting beautiful minimal products and exploring new worlds.
+### Front-end web developer.
 
 
-🔭 I’m currently working on different e-commerce projects.
+🔭 I’m currently working on different projects (e-commerce and non-e-commerce)
 
 🌱 I’m currently learning React, Express and Typescript.
 
