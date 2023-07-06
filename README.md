@@ -1,9 +1,9 @@
 # I'm John Dave Manuel 👋
 
-### Front-end web developer.
+### Front-end web developer
 
 
-🔭 I’m currently working on different projects (e-commerce and non-e-commerce)
+🔭 I’m currently working on different projects. (e-commerce and non-e-commerce)
 
 🌱 I’m currently learning React, Express and Typescript.
 
