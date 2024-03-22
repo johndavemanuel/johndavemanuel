@@ -5,9 +5,9 @@
 
 🔭 I’m currently working on different projects. (e-commerce and non-e-commerce)
 
-🌱 I’m currently learning React, Express and Typescript.
+🌱 I’m currently learning Shopify and Svelte.
 
-👯 I’m looking to collaborate on React projects.
+👯 I’m looking to collaborate on projects.
 
 🤔 I’m looking for help with developer roadmap.
 
